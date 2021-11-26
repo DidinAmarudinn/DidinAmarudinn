@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/DidinAmarudinn/Infinity-Scroll/master/screenshot/profile.png" height="175px"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/DidinAmarudinn/Infinity-Scroll/master/screenshot/profile.png" height="250px"/></a>
 
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Didin Amarudin</h1>
