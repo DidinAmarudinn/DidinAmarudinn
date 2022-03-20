@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter Clean Archictecture**
+- 🌱 I’m currently learning **iOS development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
