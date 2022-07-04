@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Didin Amarudin</h1>
-<h3 align="center">I'm a passionate Flutter Developer from Indonesia.</h3>
+<h3 align="center">I'm a passionate Flutter and Beginer iOS Developer from Indonesia.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -24,7 +24,8 @@
     <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="https://www.firebase.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-   
+    <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.icons8.com/color/344/swift.png"/></a>
+    <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.icons8.com/color/344/xcode.png"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
