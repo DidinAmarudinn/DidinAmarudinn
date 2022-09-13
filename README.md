@@ -8,9 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **iOS development**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **iOS development Especially in SwiftUI**
 
 - 📫 How to reach me **didinamarudin4@gmail.com**
 
