@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Didin Amarudin</h1>
-<h3 align="center">I'm a passionate Flutter and Beginer iOS Developer from Indonesia.</h3>
+<h3 align="center">I'm a passionate Flutter and iOS Developer from Indonesia.</h3>
 
 
 ## 🙋‍♂️ About Me
